@@ -1,4 +1,4 @@
-# DIGITAL TALENT 2018
+# PYTHON MAN 2 BOJONEGORO
 Berikut adalah materi Pengenalan Python
 
 Pertemuan 1:
